@@ -1,0 +1,47 @@
+.med_Container{
+ display: flex;
+ flex-direction: column;
+margin:0px
+}
+.med_header{
+ font-size: 30px;
+ margin-right: 5.5rem;
+ margin-top: 23px;
+ color:white;
+ margin-bottom: 0px;
+}
+.med_middle{
+    margin-top: 3px;
+    padding-right:1.9rem;
+    padding-left: 1.5rem;
+    font-size: 16px;
+    font-weight: 300;
+}
+.med_footer{
+    display: flex;
+    justify-content:space-between;
+    margin:3px 3.7rem
+}
+hr{
+    width: 20.5rem;
+    margin-top: 3px;
+    color:grey
+}
+.ETH{
+    color:#16A5A9;
+    margin-top: -1px;
+    margin-left: 4px;
+}
+.days{
+    color:grey;
+    margin-top: -1px;
+    margin-left: 4px;
+}
+.etherium{
+    display: flex;
+    
+}
+.clock{
+    display: flex;
+    
+}

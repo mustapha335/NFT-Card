@@ -1,0 +1,20 @@
+.container{
+    -webkit-box-shadow: 5px 4px 15px 0px rgba(0,0,0,0.51); 
+box-shadow: 5px 4px 15px 0px rgba(0,0,0,0.4);
+background-color: #152740;
+height:62vh;
+width:22vw;
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin:auto;
+margin-top: 10rem;
+border-radius:16px
+
+}
+.img{
+height:22rem;
+width: 22rem;
+margin-top: 12px;
+border-radius: 10px;
+}
